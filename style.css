@@ -1,0 +1,80 @@
+.hero{
+    background-color: rgba(5, 1, 29, 0.842);
+}
+
+a{
+    color: rgb(207, 207, 221);
+}
+.nav{
+    color: rgb(252, 92, 0);
+    display: inline;
+    padding-right: 60%;
+}
+.top{
+    display: inline;
+    padding-left: 25px;
+}
+.contant{
+    color: gray;
+    display: inline-block;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+    height: 25%;
+    width: 50%;
+    padding-top:7% ;
+    padding-bottom: 7%;
+    padding-left: 20px;
+}
+span{
+    color: rgb(184, 107, 19);
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.btn{
+    color: white;
+    background-color: rgb(77, 3, 87);
+    border-radius: 10px;
+    padding: 10px;
+}
+.btn2{
+    color: white;
+    background-color:transparent;
+    border-radius: 10px;
+    padding: 10px;
+}
+.position{
+    padding-left: 100px;
+}
+.expand{
+    padding: 100px;
+}
+td{
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    color: rgb(241, 238, 234);
+    font-style: italic;
+}
+th{
+    color: rgb(184, 107, 19);
+    font-weight: bolder;
+}
+.middle{
+    color: rgb(245, 242, 239);
+    background-color: transparent;
+    border-radius: 15px;
+    padding: 10 20px;
+}
+.m-coloer{
+    text-align: center;
+    padding: 50 59px;
+}
+.center{
+    text-align: center;
+    color: rgb(241, 238, 235);;
+}
+.gray{
+    color:rgb(194, 109, 24);
+}
